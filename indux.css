@@ -1,0 +1,234 @@
+
+*{font-family: 'Inconsolata', monospace;
+    font-family: 'PT Sans Narrow', sans-serif;
+   
+}
+
+.title{
+    background-image: url("https://hercules.in/wp-content/uploads/2016/12/Hercules_Web_Logo_Regular_2016_12.png");
+}
+
+
+.header{
+    color: #fff;
+    background:black;
+    width: 100%;
+    height: 90px;
+    position: fixed;
+    opacity: 0.9;
+
+}
+body{
+    margin: 0;
+    font-family: "IBM Plex Sans Condensed", Arial, Helvetica, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    font: 13px/20px PTSansRegular,Arial,Helvetica,sans-serif;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-style: normal;
+}
+.logo{
+    
+    width: 20%;
+    height: 90px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 14%;
+    padding-right: 50px;
+   
+}
+.nav{
+    display: flex;
+    gap: 25px;
+    
+    width: 47%;
+    height: 90px;
+    float: left;
+    padding-left: 60px;
+    padding-top: 40px;
+    text-align-last: right;
+    font-size: medium;
+    
+  
+}
+.button:hover {
+   
+    cursor: pointer;
+    background-color:#fff;
+    color:red;
+    font-size:larger;
+    
+}
+
+
+.main{
+    padding-top: 100px;
+    background-color:black;
+    width: 100%;
+    height: 700px;
+}
+.main2{
+   
+    width: 100%;
+    height: 700px;
+    background-image: url(https://hercules.in/wp-content/uploads/2020/09/Web-1920-–-1.png);
+   
+}
+.preview{
+   
+   
+    padding-top: 30px;
+    margin-left: 350px;
+    
+    width: 800px;
+    height: 450px;
+    align-items: center;
+    
+    }
+    .paragraph{
+       color: #fff;
+        width: 1000px;
+        height: 150px;
+        padding-left: 100px;
+        margin-left: 120px;
+        font-size: 20;
+        line-height: 1.35;
+        text-align: center;
+       font-family: "IBM Plex Sans Condensed", Arial, Helvetica, sans-serif;
+       font-weight: 200;
+        
+    }
+    .heading{
+        height: 750px;
+        padding-top: 5px;
+        width: 100%;
+        margin: 0;
+        background-color:black;
+        color:#fff;
+        text-align: center;
+       font-size: 40px;
+    }
+    .innovation{
+        width: 100%;
+        height: 100px;
+       
+        display: flex;
+    }
+    .lineing{
+        width: 40%;
+        height: 30px;
+        padding-top: 30px;
+       
+    }
+    
+    .linetext{
+        width: 20%;
+        height: 30px;
+      text-align: center;
+      font-display: top;
+      
+        align-items: end;
+    }
+
+    .line{
+       
+        width: 30%;
+        height: 60px;
+        float: left;
+        margin-left: 20px;
+        margin-right: 0;
+
+    }
+    .title1{
+        background-color: aqua;
+        width: 15%;
+        height: 60px;
+        float: left;
+        margin-right: 500px;
+        padding-right: 300px;
+        padding-left: 400px;
+        
+      
+
+    }
+    .one{
+        height:650px ;
+        width: 35%;
+        background-image: url(https://hercules.in/wp-content/uploads/2021/04/Night-vision-Banner-.jpg);
+        
+        float: left;
+        margin-left: 200px;
+        margin-bottom: 8px;
+        transition: 3s;
+       
+       
+    }
+    .one:hover{
+        scale: 1.1;
+    }
+    .two{
+        height:650px ;
+        width: 35%;
+        background-image:url(https://hercules.in/wp-content/uploads/2021/04/Black-Hunter-mobile-banner-IPL-banner.jpg);
+        float: left;
+        padding-left: 10px;
+        margin-left: 50px;
+        transition: 3s;
+    }
+    .two:hover{
+        scale: 1.1;
+    }
+    .lastpartition{
+      
+        width: 100%;
+        height: 1750px;
+        background-color: black;
+        color:#fff;
+        text-align: center;
+        font-size: 40px;
+        padding-top: 5px;
+    }
+    .lastlext{
+        width: 100%;
+        height: 100px;
+        display: flex;
+    }
+    .last1{
+        width: 40%;
+        height: 500px;
+        float: left;
+       text-decoration: none;
+        padding-top: 0;
+        font-size:medium;
+        text-align: center;
+        margin-left: 125px;
+        margin-bottom: 20px;
+        transition: 3s;
+    }
+    .last2{
+        width: 40%;
+        height: 500px;
+        float: left;
+      
+       font-size: medium;
+        margin-right: 100px;
+        text-align: center;
+        margin-left: 50px;
+        margin-bottom: 20px;
+        transition: 3s;
+    }
+    .footter{
+        background-color:black;
+        width: 100%;
+        height: 90px;
+        font-size: x-small;
+        font-size: 12px;
+        padding-bottom: 70px;
+    }
+
+    .imagehov:hover{
+    transition: 3s;
+    }
+    .imagehov:hover{
+        scale: 1.1;
+    }
